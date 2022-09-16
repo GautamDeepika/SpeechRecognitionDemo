@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySpeechRecognitionDemo</string>
+    <string name="tap_to_speech">Tap To Speech</string>
+</resources>
